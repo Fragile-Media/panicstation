@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+
+body {
+    font-family:"Arial Narrow";
+    color: #aaa;
+    font-size: 1em;
+}
+
+h1 {
+    font-family:"Courier New";
+    font-size: 2em;
+}
+
+form label {
+    float: left;
+    clear: both;
+    width: 100px;
+    display: inline-block;
+}
+
+form input {
+    float: left;
+    display: inline-block;
+    clear: none;
+}
+
+form input[type="submit"] {
+    float: none;
+    display: block;
+    clear: both;
+}
+
+#page {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.pizzas,
+.pizzas li {
+    float: left;
+    clear: both;
+}
+
+.pizza-item,
+.pizza-item-price,
+.pizza-item-controls {
+    display: block;
+    float: left;
+}
+.pizza-item {
+    width: 200px;
+    text-overflow: ellipsis;
+    clear: both;
+}
+
+.pizza-item-price {
+    width: 100px;
+}
+
+.pizza-item-controls {
+    width: 200px;
+}
