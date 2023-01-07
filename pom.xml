@@ -12,7 +12,7 @@
 		<org.springframework-version>5.2.20.RELEASE</org.springframework-version>
 		<org.hibernate-version>5.3.20.Final</org.hibernate-version>
 		<org.aspectj-version>1.9.19</org.aspectj-version>
-		<org.slf4j-version>1.7.5</org.slf4j-version>
+		<org.slf4j-version>2.0.6</org.slf4j-version>
 		<mysql-version>8.0.28</mysql-version>
 	</properties>
 	<dependencies>
