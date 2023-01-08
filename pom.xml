@@ -13,7 +13,7 @@
 		<org.hibernate-version>5.3.20.Final</org.hibernate-version>
 		<org.aspectj-version>1.9.19</org.aspectj-version>
 		<org.slf4j-version>1.7.5</org.slf4j-version>
-		<mysql-version>8.0.28</mysql-version>
+		<mysql-version>8.0.30</mysql-version>
 	</properties>
 	<dependencies>
 		<!-- Spring -->
